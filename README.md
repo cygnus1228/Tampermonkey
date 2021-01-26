@@ -17,7 +17,7 @@
 ###### 安装
 ```sudo apt install g++```
 # VSCode 插件
-连接虚拟机
+## 连接虚拟机
 ```Remote-SSH```
 ## 运行代码
 ```Code Runner```
