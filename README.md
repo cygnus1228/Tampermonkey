@@ -41,3 +41,7 @@
   "editor.fontSize": 14,//设置字体大小，这个不多说都明白
 "editor.fontWeight": "normal",//这个设置字体粗细，可选normal,bold,"100"~"900"等，选择合适的就行
 ```
+###### 终端字体间距
+```
+"terminal.integrated.fontFamily": "monospace"
+```
