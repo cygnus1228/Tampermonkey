@@ -33,6 +33,8 @@
 ```vscode-icons```
 ## 字体
 ###### [Fira Code](https://github.com/tonsky/FiraCode)
+```下载后打开FiraCode\distr\ttf全选右键安装```
+
 ```设置中搜索font```
 ###### 添加
 ```
