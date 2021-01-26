@@ -35,7 +35,7 @@
 ###### [Fira Code](https://github.com/tonsky/FiraCode)
 ```下载后打开FiraCode\distr\ttf全选右键安装```
 
-```设置中搜索font```
+```VSCode设置中搜索font```
 ###### 添加
 ```
 "editor.fontFamily": "Fira Code",//后边的引号中写上要设置的字体类型，个人比较喜欢Fira Code
