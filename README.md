@@ -38,10 +38,10 @@
 ```VSCode设置中搜索font```
 ###### 添加
 ```
-"editor.fontFamily": "Fira Code",//后边的引号中写上要设置的字体类型，个人比较喜欢Fira Code
+"editor.fontFamily": "Fira Code",//后边的引号中写上要设置的字体类型
 "editor.fontLigatures": true,//这个控制是否启用字体连字，true启用，false不启用，这里选择启用
-  "editor.fontSize": 14,//设置字体大小，这个不多说都明白
-"editor.fontWeight": "normal",//这个设置字体粗细，可选normal,bold,"100"~"900"等，选择合适的就行
+  "editor.fontSize": 14,//设置字体大小
+"editor.fontWeight": "normal",//这个设置字体粗细，可选normal,bold,"100"~"900"等，选择合适的
 ```
 ###### 终端字体间距
 ```
