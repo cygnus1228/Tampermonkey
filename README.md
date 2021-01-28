@@ -18,7 +18,7 @@
 ```sudo apt install g++```
 # VSCode 插件
 ## 上传配置
-```Settings Sync```
+###### [Settings Sync](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
 ## 连接虚拟机
 ```Remote-SSH```
 ## 运行代码
