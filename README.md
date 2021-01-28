@@ -17,6 +17,9 @@
 ###### 安装
 ```sudo apt install g++```
 # VSCode 插件
+## 语言
+###### JS
+```Vetur VUE```
 ## 上传配置
 ###### [Settings Sync](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
 ## 连接虚拟机
@@ -51,6 +54,28 @@
 ```
 ## 打开html
 ```view in browser```
+## 在浏览器中查看
+```open-in-browser ```
+## 实时预览
+```Live Server```
+## 自动闭合标签
+```Auto Close Tag```
+## 尾部闭合标签同步修改
+```Auto Rename Tag```
+## 用不同颜色高亮显示匹配的括号
+```Bracket Pair Colorizer```
+## 高亮显示匹配标签
+```Highlight Matching Tag```
+## 文件图标
+```Vscode-icons VSCode```
+## 高亮
+```TODO Highlight```
+## 单词拼写检查
+```Code Spell Checker```
+## 查看Git信息
+```GitLens```
+## 书签
+```Bookmarks```
 ## 常用快捷键
 ###### 编辑器与窗口管理
 ```Ctrl+Shift+P: 打开命令面板```
