@@ -36,6 +36,8 @@
 ```Dracula Official```
 ## 文件图标主题
 ```vscode-icons```
+
+```Material Icon Theme```
 ## 字体
 ###### [Fira Code](https://github.com/tonsky/FiraCode)
 ```下载后打开FiraCode\distr\ttf全选右键安装```
