@@ -47,3 +47,6 @@
 ```
 "terminal.integrated.fontFamily": "monospace"
 ```
+## 打开html
+###### version lens
+###### view in browser
