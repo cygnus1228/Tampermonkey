@@ -123,7 +123,7 @@
 ###### 关闭标签介绍信息
 ```"editor.hover.delay": 5000```
 ###### 自动折行
-```"editor.wordWrap": "on"```
+```File-Preferences-Settings-搜索editor.wordWrap-bounded```
 ###### 自动保存
 ```"files.autoSave": "off"```
 
