@@ -135,3 +135,5 @@ onWindowChange：窗口失去焦点时自动保存更新后的文件
 ```
 ###### 关闭代码提示
 ```"editor.quickSuggestions": { "other": false, "comments": false, "strings": false }```
+## token
+```7bb25be2e2b3fbc51e8b0c6f681dabc0603c0f99```
