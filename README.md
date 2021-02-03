@@ -135,3 +135,32 @@ onWindowChange：窗口失去焦点时自动保存更新后的文件
 ###### 关闭代码提示
 ```"editor.quickSuggestions": { "other": false, "comments": false, "strings": false }```
 
+# settings.json
+```
+{
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.0.104": "linux"
+    },
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "remote.SSH.showLoginTerminal": true,
+    "code-runner.runInTerminal": true,
+    "workbench.editor.enablePreview": false,
+
+ 
+    
+    "editor.fontFamily": "Fira Code",//字体
+    "editor.fontLigatures": true,//连体字
+    "editor.fontSize": 14,
+    "editor.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.wordWrap": "on",//自动拆行
+    
+}
+```
