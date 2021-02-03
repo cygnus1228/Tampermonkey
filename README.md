@@ -38,6 +38,7 @@
 ```vscode-icons```
 
 ```Material Icon Theme```
+
 ## 字体
 ###### [Fira Code](https://github.com/tonsky/FiraCode)
 ```下载后打开FiraCode\distr\ttf全选右键安装```
@@ -68,8 +69,6 @@
 ```Bracket Pair Colorizer```
 ## 高亮显示匹配标签
 ```Highlight Matching Tag```
-## 文件图标
-```Vscode-icons VSCode```
 ## 高亮
 ```TODO Highlight```
 ## 单词拼写检查
@@ -135,5 +134,4 @@ onWindowChange：窗口失去焦点时自动保存更新后的文件
 ```
 ###### 关闭代码提示
 ```"editor.quickSuggestions": { "other": false, "comments": false, "strings": false }```
-## token
-```7bb25be2e2b3fbc51e8b0c6f681dabc0603c0f99```
+
