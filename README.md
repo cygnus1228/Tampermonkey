@@ -16,6 +16,14 @@
 ```g++ -v```
 ###### 安装
 ```sudo apt install g++```
+
+
+# insatall others
+## [movy](https://github.com/rossning92/movy)
+```npm i -g movy```
+
+
+
 # VSCode 插件
 ## 语言
 ###### JS
